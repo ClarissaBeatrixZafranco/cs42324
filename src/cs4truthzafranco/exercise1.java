@@ -9,6 +9,7 @@ package cs4truthlecture;
  *
  * @author TRUTH
  */
+
 public class exercise1 {
     String racer1Name = "Strip 'The King' Weathers";
     String racer1Sponsor = "Dinoco";
@@ -19,6 +20,8 @@ public class exercise1 {
     int racer2PistonCups = 1;
     
     String racer3Name = "Lightning McQueen";
-    String racer3Sponsor = "Rust-eze";
+    String racer3Sponsor = "Rusteze";
     int racer3PistonCups = 7;
+    
+    System.out.println("Racer No. 1" + "\n");
 }
